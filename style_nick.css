@@ -1,0 +1,158 @@
+body{
+    width: 800px;    
+    margin: auto;
+    padding: 40px;
+    line-height: 1.4;
+    background-color: whitesmoke;
+    border-bottom: 1px solid #e7e6e6;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+header {
+    text-align: center;
+    height: 150px;
+    border-bottom: 2px solid gray;
+    margin-bottom: 10px;
+    padding-bottom: 10px; 
+}
+
+#main{
+  max-width: 800px;
+  margin:auto
+}
+
+.my-picture{
+    display:inline;
+}
+
+.my-picture img {
+    height: 100px;
+    vertical-align: top;
+}
+
+#list-style {
+    width: 70%;
+    line-height: 1.4;
+    box-align: center;
+}
+
+#list-style div img {
+   width: 200px;
+   display:none;
+}
+  
+.title {
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 24px;
+    vertical-align: top; 
+}
+  
+h1{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    padding: 0;
+}
+
+h4 {
+    font-size: 25px;
+    font-weight: lighter;
+    color: black;
+    text-align: center;
+    padding: 0;
+    margin-bottom: 10px;
+}
+  
+#image {
+    display:inline;
+    background:whitesmoke;
+    margin-bottom: 20px;
+    padding: 50px 50px;
+    max-width: fit-content;
+    width: 500px;
+}
+
+#img-caption {
+    text-align:center;
+    font-size:  16px;
+    line-height: 1.4;
+    box-align:center;
+    max-width: 70%;  
+    margin-left: 40px;
+    line-break: auto;
+}
+  
+ul{
+    list-style-type: none;
+}
+
+p.bold-big{
+    font-size: 60px;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+    padding: 0px;
+}
+
+#title {
+    width: 900px;    
+    margin-top: 20px auto;
+    padding: 0px;
+}
+
+.picture-list {
+    width: 200px;
+}
+
+.div li{
+    font-size: 48px;    
+    display:block;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+  
+footer {
+    font-size:14px;
+    text-align:center;
+    height: 200px;
+    padding-top: 50px;
+    border-top: 2px solid gray;
+    margin-top: 20px;
+    float:none;
+    overflow:auto;    
+}
+  
+.img-nick {
+    width: 100px;
+    height:100px;    
+}
+
+ul img {
+    width: 200px;
+    margin:20px 10px;
+    box-align: center; 
+
+}     
+
+div.ul {
+    width: 100;
+    margin:20px 10px;
+    box-align: center; 
+}  
+
+.first-img {
+width:50%;
+box-align:center;    
+}
+
+.ask-me p {
+font-size: 60px ; 
+margin: auto;
+padding:20px 0; 
+}
+
+.div ask-me p {
+    font-size: 60px;
+}
